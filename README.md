@@ -1,5 +1,5 @@
 # P4G
-Pembayaran iuran bulanan saya di Perumahan kadang terselip tidak tercatat, karena sistem verifikasi menggunakan grup WA, sehingga kadang message tenggelam dan tidak tercatat oleh bendahara
+Pembayaran iuran bulanan saya di Perumahan kadang terselip tidak tercatat, karena sistem verifikasi menggunakan grup WA, sehingga message tenggelam dan tidak tercatat oleh bendahara
 
 # Tujuan
 - Memudahkan anggota perumahan untuk upload data pembayaran iuran bulanan
