@@ -12,5 +12,5 @@ Pembayaran iuran bulanan saya di Perumahan kadang terselip tidak tercatat, karen
 - Registrasi User oleh Administrator (Done)
 - Registrasi Alamat oleh Administrator (Done)
 - Submit payment evidence oleh Anggota, termasuk notifikasi via email ke Bendahara (In Progress)
-- Verifikasi payment oleh Bendahara (To Do)
+- Verifikasi payment oleh Bendahara, termasuk notifikasi via email ke Anggota (To Do)
 - Reporting sederhana bagi Anggota & Bendahara untuk melihat history pembayaran ( To Do)
